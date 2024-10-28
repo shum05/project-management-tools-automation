@@ -1,0 +1,12 @@
+
+---
+
+#### `.gitignore`
+
+```gitignore
+# Ignore virtual environments
+.vscode/
+__pycache__/
+*.pyc
+.env
+project-env/
